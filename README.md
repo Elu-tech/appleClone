@@ -16,5 +16,5 @@ This is a collaborative project to clone the Apple website, aiming to enhance ou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/appleClone.git
+   git clone https://github.com/Elu-tech/appleClone.git
    ```
